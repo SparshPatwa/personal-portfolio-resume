@@ -9,7 +9,7 @@ A webpage that showcases my personal projects.
 * CSS
 
 ## **URL**
-https://sparshpatwa.github.io/ucb-02/
+https://sparshpatwa.github.io/personal-portfolio-resume/
 
 ## **Status**
 Under constant development
